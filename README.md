@@ -1,2 +1,2 @@
-# japanese-alchemy-support
-Support for Japanese Alchemy Chrome Extension
+# j-buddy-support
+Support for J-Buddy Learning Japanese Chrome Extension
